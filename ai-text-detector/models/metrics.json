@@ -1,0 +1,17 @@
+{
+  "accuracy": 0.9780334728033473,
+  "precision": 0.9746782897467829,
+  "recall": 0.9816053511705686,
+  "f1": 0.9781295563424287,
+  "auc": 0.9982116897195005,
+  "false_positive_rate": 0.02554438860971524,
+  "false_negative_rate": 0.01839464882943144,
+  "train_samples": 19220,
+  "test_samples": 4780,
+  "confusion_matrix": {
+    "tn": 2327,
+    "fp": 61,
+    "fn": 44,
+    "tp": 2348
+  }
+}

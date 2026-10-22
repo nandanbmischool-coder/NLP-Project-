@@ -1,0 +1,29 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Local environment and secrets
+.env
+.env.local
+frontend/.env.local
+
+# Frontend dependencies and build output
+frontend/node_modules/
+frontend/dist/
+
+# Large local datasets
+data/*.csv
+data/*.jsonl
+data/*.parquet
+
+# Runtime logs
+*.log
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

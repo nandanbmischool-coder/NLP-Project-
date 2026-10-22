@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+joblib
+nltk
+fastapi
+uvicorn
+pytest
+httpx
+huggingface_hub
+datasets
